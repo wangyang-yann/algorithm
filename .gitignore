@@ -20,3 +20,8 @@ node_modules
 .ensime**
 piaoniu-op/src/main/resources/static
 .meghanada
+classes/
+src/main/java/array/
+src/main/java/searchsort/
+src/main/java/string/
+src/main/java/tree/
